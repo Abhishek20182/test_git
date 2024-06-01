@@ -1,4 +1,4 @@
-# Interview Question Creator(using LLM {GEN AI})
+# GEN AI - Interview Question Creator(using LLM)
 
 
 
