@@ -7,17 +7,17 @@
 1. Create an environment
 
 ```bash
-conda create -n interview python=3.10 -y
+conda create -n question_creator python=3.10 -y
 
 
-conda activate interview
+conda activate question_creator
 
 ```
 
 2. Activate the environment
 
 ```bash
-conda activate interview
+conda activate question_creator
 ```
 
 
